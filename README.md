@@ -1,5 +1,5 @@
 ![ascii-orange2](https://github.com/Orangeliquid/Orangeliquid/assets/127478612/b9fbdc75-e184-4f16-9b15-107b04a5e837)
-### 👋 Hello World! 
+## 🍊 Orangeliquid 🍊 | Merging the brilliance of a vibrant hue with the allure of a stylish and resonant term.
 
 I'm Michael, a passionate self-taught programmer who embarked on the coding journey nearly a year ago. My main focus is on Python, and I'm loving every moment of it! 🐍
 
