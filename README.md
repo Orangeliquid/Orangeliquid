@@ -1,7 +1,7 @@
 ![ascii-orange2](https://github.com/Orangeliquid/Orangeliquid/assets/127478612/b9fbdc75-e184-4f16-9b15-107b04a5e837)
 ## 🍊 Orangeliquid 🍊 | Merging the brilliance of a vibrant hue with the allure of a stylish and resonant term.
 
-I'm Michael, a passionate self-taught programmer who embarked on the coding journey nearly a year ago. My main focus is on Python, and I'm loving every moment of it! 🐍
+I'm Michael, a passionate self-taught programmer who embarked on the coding journey nearly a year ago. My main focus is on Python, and I'm loving every moment of it!
 
 #### What I'm currently up to:
 
@@ -15,7 +15,7 @@ I'm Michael, a passionate self-taught programmer who embarked on the coding jour
 - Python | Flask | Bootstrap
 - HTML | CSS | JavaScript
 
-#### 🌟 Fun Facts:
+#### Fun Facts:
 
 - When I'm not coding, you can find me exploring new games to play.
 - Queing Rocket League with my friends!
